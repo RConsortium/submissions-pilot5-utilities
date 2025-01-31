@@ -6,6 +6,13 @@
 .RData
 .RDataTmp
 
+# specific to this study
+docs
+inst/doc
+pilot5.Rcheck/
+pilot5*.tar.gz
+pilot5*.tg
+ 
 # User-specific files
 .Ruserdata
 
