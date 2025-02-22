@@ -1,6 +1,6 @@
 Package: pilot5utils
 Type: Package
-Title: Utilities for the Pilot 3 Submission to the FDA
+Title: Utilities for the Pilot 5 Submission to the FDA
 Version: 0.0.2
 Authors@R: c(
        person("Benjamin", "Straub-GSK", , email = "ben.x.straub@gsk.com", role = c("aut", "cre")),
